@@ -131,18 +131,6 @@ Machine Learning is a branch of Artificial Intelligence that focuses on developi
 
 ---
 
-# 📸 Demo
-
-You can add your demo screenshot here.
-
-```
-!<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/1ee7f6cc-8925-4d04-8c40-f0e2e29e164d" />
-```
-
-Or upload your demo video.
-
----
-
 # 🔒 Environment Variables
 
 | Variable       | Description                  |
