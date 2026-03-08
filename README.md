@@ -47,7 +47,7 @@ study-assistant
 ## 1 Clone the repository
 
 ```
-git clone https://github.com/your-username/study-assistant.git
+git clone https://github.com/https://github.com/dkeskar717-bot/StudyAssistant/study-assistant.git
 cd study-assistant
 ```
 
